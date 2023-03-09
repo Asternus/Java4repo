@@ -36,7 +36,9 @@ public class Main {
         animalUtils.craeteUtils();
 
         Animal animal2 = new Animal();
+
         Animal animal3 = new Animal();
+        Animal animal4 = new Animal();
 
     }
 
