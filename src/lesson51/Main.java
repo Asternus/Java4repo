@@ -35,6 +35,10 @@ public class Main {
         AnimalUtils animalUtils = new AnimalUtils();
         animalUtils.craeteUtils();
 
+        Animal animal2 = new Animal();
+
+    //hhh
+
     }
 
 }
